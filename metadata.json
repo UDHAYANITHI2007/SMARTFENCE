@@ -1,0 +1,7 @@
+{
+  "name": "SMARTFENCE X – Real-Time Safety & Big Data Analytics Platform",
+  "description": "Industrial IoT electric fence protection platform featuring sub-8ms emergency isolation, ESP32 edge processing, multi-parameter risk intelligence, and Apache Spark + Scala big data analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
